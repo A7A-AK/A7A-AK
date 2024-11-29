@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @A7A-AK
+- 👀 I’m interested in Back-End Development 
+- 🌱 I’m currently learning C++
+- 📫 How to reach me ammarkadhum92@gmail.com
